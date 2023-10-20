@@ -31,11 +31,11 @@
       "type": "image/png"
     }
   ],
-  "name": "text-editor",
+  "name": "pwa-text-editor",
   "short_name": "MyPWA",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "My awesome Progressive Web App!",
+  "description": "My sick PWA!",
   "background_color": "#ffffff"
 }
